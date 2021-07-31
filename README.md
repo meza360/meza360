@@ -17,10 +17,10 @@
    <img width=100px src="https://badges.aleen42.com/src/pinterest.svg">
    <img width=100px src="https://badges.aleen42.com/src/instagram.svg">
    <img width=100px src="https://badges.aleen42.com/src/facebook.svg">
-  <img width=100px src="https://badges.aleen42.com/src/facebook.svg">
+  <img width=100px src="https://badges.aleen42.com/src/twitter.svg">
   <img width=100px src="https://badges.aleen42.com/src/spotify.svg">
   <img width=100px src="https://badges.aleen42.com/src/telegram.svg">
-  <img width=100px src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img width=100px src="">
   <img width=100px src="">
 
   
