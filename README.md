@@ -25,7 +25,7 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
  
  <h2>Web design and web apps</h2>
  <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
-  <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png">
+  <img width=100px src="https://github.com/meza360/meza360/blob/master/apache_original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
