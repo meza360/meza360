@@ -13,18 +13,14 @@
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
-  
-   <img width=100px src="https://badges.aleen42.com/src/pinterest.svg">
-   <img width=100px src="https://badges.aleen42.com/src/instagram.svg">
-   <img width=100px src="https://badges.aleen42.com/src/facebook.svg">
-  <img width=100px src="https://badges.aleen42.com/src/twitter.svg">
-  <img width=100px src="https://badges.aleen42.com/src/spotify.svg">
-  <img width=100px src="https://badges.aleen42.com/src/telegram.svg">
-  <img width=100px src="">
-  <img width=100px src="">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 
-  
-  
+
 </div>
 
 I am currently studying computer science and IT administration(eight out of ten cycles) at Mariano Galvez University, Guatemala.
@@ -34,27 +30,20 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
 
 Im currently learning about HTML,CSS,Javascript, .NET and React. Most of it from online courses, selftought.
 
-You can find me on social
+# You can find me on social media
+ <a href="https://www.pinterest.com/giovanidav5/_saved/"><img height=30px src="https://badges.aleen42.com/src/pinterest.svg"></a>
+ <a href="https://www.instagram.com/meza_360_/"><img height=30px src="https://badges.aleen42.com/src/instagram.svg"></a>
+ <a href="https://www.facebook.com/giovani.meza.360/"><img height=30px src="https://badges.aleen42.com/src/facebook.svg"></a>
+ <a href="https://twitter.com/meza_360"><img height=30px src="https://badges.aleen42.com/src/twitter.svg"></a>
+ <a href="https://open.spotify.com/user/giovanimeza?si=d87b1c5a12524365"><img height=30px src="https://badges.aleen42.com/src/spotify.svg"></a>
 
+ 
+ ## Get in touch with me to collab or tailored projects
+  <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
+  
 linked in
 https://www.linkedin.com/in/giovani-meza-3702681a5
 
-instagram
-https://www.instagram.com/meza_360_/
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meza360&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/meza360/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meza360&langs_count=12&hide=ruby,less,scss,shell&layout=compact&theme=tokyonight)](https://github.com/meza360/github-readme-stats)
 
-![Snake animation](https://github.com/meza360/meza360/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**meza360/meza360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
