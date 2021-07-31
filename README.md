@@ -11,8 +11,9 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
  <h2>Database related projects</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+ <img width=100px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <img width=100px src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
  
@@ -24,14 +25,13 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
  
  <h2>Web design and web apps</h2>
  <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+  <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
  
  <h1>Technologies i'm currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
