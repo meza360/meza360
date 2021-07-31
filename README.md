@@ -42,7 +42,7 @@ https://www.linkedin.com/in/giovani-meza-3702681a5
 instagram
 https://www.instagram.com/meza_360_/
 
-
+![Snake animation](https://github.com/meza360/meza360/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **meza360/meza360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
