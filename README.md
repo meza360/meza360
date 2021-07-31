@@ -1,5 +1,6 @@
-### Hi 👋 you can just call me Gio :).
+## Software developer? coder? geek? i dont know, you tell me 👀
 
+# Giovani Meza, 21 
 
 I am currently studying computer science and IT administration(eight out of ten cycles) at Mariano Galvez University, Guatemala.
 Just some random guy who found and old PC with Counter Strike on it, although ive decided i would like to create videogames, along the way i found i liked being alone coding, or playing with stuff on the house, like hoocking up everything to the modem, finding the best spot for a PC, changing settings on home groups at Windows, and thats how i found myself enjoying about systems administration. :3
@@ -36,12 +37,12 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
- <h2>What i use with my teams to collab</h2>
+ <h2> 📋 What i use with my teams to collaborate 🧩</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
  <img width=100px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
 </div>
 
-# You can find me on social media
+# 👇🏻Find me on socia👇🏻
  <a href="https://www.pinterest.com/giovanidav5/_saved/"><img height=30px src="https://badges.aleen42.com/src/pinterest.svg"></a>
  <a href="https://www.instagram.com/meza_360_/"><img height=30px src="https://badges.aleen42.com/src/instagram.svg"></a>
  <a href="https://www.facebook.com/giovani.meza.360/"><img height=30px src="https://badges.aleen42.com/src/facebook.svg"></a>
@@ -49,7 +50,7 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
  <a href="https://open.spotify.com/user/giovanimeza?si=d87b1c5a12524365"><img height=30px src="https://badges.aleen42.com/src/spotify.svg"></a>
 
  
- ## Get in touch with me to collab or tailored projects
+ ## 📲 Get in touch with me to collaborate or get tailored projects🤙🏻
   <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
   
 
