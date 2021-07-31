@@ -6,8 +6,6 @@ Just some random guy who found and old PC with Counter Strike on it, although iv
 
 Ive developed functional/basic software with technologies like C#, Java SE,Java EE, relational databases, and had the oportunity to mount my own PC, which was at first for gaming, but it turned out as a server for my own use.
 
-Im currently learning about HTML,CSS,Javascript, .NET and React. Most of it from online courses, selftought.
-
 <div>
  <h1>Technologies i've worked with</h1>
  <h2>Database related projects</h2>
@@ -32,11 +30,13 @@ Im currently learning about HTML,CSS,Javascript, .NET and React. Most of it from
  
  <h1>technologies im currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
-   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+ 
+ <h2>What i use with my teams to collab</h2>
+  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
 </div>
 
 # You can find me on social media
@@ -50,8 +50,6 @@ Im currently learning about HTML,CSS,Javascript, .NET and React. Most of it from
  ## Get in touch with me to collab or tailored projects
   <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
   
-linked in
-https://www.linkedin.com/in/giovani-meza-3702681a5
 
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meza360&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/meza360/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meza360&langs_count=12&hide=ruby,less,scss,shell&layout=compact&theme=tokyonight)](https://github.com/meza360/github-readme-stats)
 
