@@ -23,12 +23,13 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  
  <h2>Web design and web apps</h2>
+ <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
  
- <h1>technologies im currently learning</h1>
+ <h1>Technologies i'm currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
 
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -36,7 +37,8 @@ Ive developed functional/basic software with technologies like C#, Java SE,Java 
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
  <h2>What i use with my teams to collab</h2>
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+ <img width=100px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
 </div>
 
 # You can find me on social media
