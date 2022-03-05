@@ -1,6 +1,7 @@
 # Giovani Meza, 22 👀🏋🏻‍♂️
-I am currently studying computer science and IT administration(eight out of ten cycles as 2021) 👨🏻‍🎓 at Mariano Galvez University, Guatemala.
-Coffee lover! 🥸☕️
+Systems engineering and computer science student, at Mariano Gálvez of
+Guatemala University. I mainly code and support software in JAVA SE/EE and C#. I run my own home infrastructure with Windows and Linux servers. 
+I am currently learning and improving my skills in HTML, CSS, JavaScript, .NET Core, REACT JS, React Native, UX/UI design and Oracle database administration.
 Software developer, coder, systems administrator, entrepreneur 💻 On my way to Fullstack 🎯
 
 <div>
