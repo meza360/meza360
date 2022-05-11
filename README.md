@@ -13,26 +13,31 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
  
- 
  <h2>Programming languages</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  
  <h2>Web design and web apps</h2>
  <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
   <img width=100px src="https://github.com/meza360/meza360/blob/master/apache_original.svg">
+  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
  
+ <h2>Everyday usage</h2>
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
+ 
  <h1>Technologies i'm currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
  <h2> 📋 What i use with my teams to collaborate 🧩</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
