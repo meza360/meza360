@@ -17,8 +17,7 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ 
  
  <h2>Web design and web apps</h2>
  <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
@@ -32,6 +31,7 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  
  <h1>Technologies i'm currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
