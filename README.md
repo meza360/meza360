@@ -8,9 +8,10 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <h2>Cloud services</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
  <img width=100px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
- 
+ <h2>Database management</h2>
  <img width=100px src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
  
  
  <h2>Programming languages</h2>
