@@ -45,10 +45,7 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <a href="https://www.facebook.com/giovani.meza.360/"><img height=30px src="https://badges.aleen42.com/src/facebook.svg"></a>
  <a href="https://twitter.com/meza_360"><img height=30px src="https://badges.aleen42.com/src/twitter.svg"></a>
  <a href="https://open.spotify.com/user/giovanimeza?si=d87b1c5a12524365"><img height=30px src="https://badges.aleen42.com/src/spotify.svg"></a>
-
- 
- ## 📲 Get in touch with me to collaborate or get tailored projects🤙🏻
-  <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
+ <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
   
 
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meza360&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/meza360/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meza360&langs_count=12&hide=ruby,less,scss,shell,tsql&layout=compact&theme=tokyonight)](https://github.com/meza360/github-readme-stats)
