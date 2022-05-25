@@ -1,4 +1,4 @@
-# Giovani Meza, 22 👀🏋🏻‍♂️
+# Giovani Meza 👀🏋🏻‍♂️
 Systems engineering and computer science student, at Mariano Gálvez University(Guatemala). I mainly code and support software in JAVA SE/EE and C#. I run my own home infrastructure with Windows and Linux servers. 
 I am currently learning and improving my skills in HTML, CSS, JavaScript, .NET Core, REACT JS, React Native, UX/UI design and Oracle DB high availability architecture.
 Software developer, coder, systems administrator, entrepreneur 💻 On my way to Fullstack 🎯
