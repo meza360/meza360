@@ -1,5 +1,5 @@
 # Gio, software engineer 👀🏋🏻‍♂️
-Systems engineering and computer science student
+Systems engineering and computer science student <br>
 Mariano Gálvez University(Guatemala). JAVA and C# developer. 
 I run my own home infrastructure mixing Windows and Linux servers. 
 I am currently learning and improving my skills in HTML, CSS, JavaScript, .NET Core, REACT JS, React Native, UX/UI design and Oracle DB high availability architecture.
