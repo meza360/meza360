@@ -1,4 +1,4 @@
-# Gio, software engineer 👀 :alien: 
+# Gio, software engineer :alien: :floppy_disk: :coffee:
 Systems engineering and computer science undergraduate<br>
 Mariano Gálvez University(Guatemala). <br>
 JAVA and C# developer. <br>
