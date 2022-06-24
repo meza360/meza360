@@ -1,8 +1,8 @@
-# Gio, software engineer :alien: :floppy_disk: :coffee:
+# Gio, Systems engineer :alien: :floppy_disk: :coffee:
 Systems engineering and computer science undergraduate<br>
 Mariano Gálvez University(Guatemala). <br>
 JAVA and C# developer. <br>
-I run my own home infrastructure mixing Windows and Linux servers. 
+I run my own home infrastructure mixing Windows and Linux servers.
 I am currently learning and improving my skills in HTML, CSS, JavaScript, .NET Core, REACT JS, React Native, UX/UI design and Oracle DB high availability architecture.
 Software developer, coder, systems administrator, entrepreneur 💻 On my way to Fullstack 🎯
 
