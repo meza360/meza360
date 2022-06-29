@@ -7,7 +7,7 @@ I am currently learning and improving my skills in HTML, CSS, JavaScript, .NET C
 Software developer, coder, systems administrator, entrepreneur 💻 On my way to Fullstack 🎯
 
 <div>
- <h1>Technologies i've worked with</h1>
+ <h1>Technologies I've worked with</h1>
  <h2>Cloud services</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
  <img width=100px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
@@ -30,28 +30,27 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
  
- <h2>Everyday usage</h2>
+ <h2>Daily tools</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  
- <h1>Technologies i'm currently learning</h1>
+ <h1>Technologies I'm currently learning</h1>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
- <h2> 📋 What i use with my teams to collaborate 🧩</h2>
+ <h2> 📋 What i use t colaborate with my teams 🧩</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
  <img width=100px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
 </div>
 
-# 👇🏻Find me on socia👇🏻
+# 👇🏻Find me on👇🏻
  <a href="https://www.pinterest.com/giovanidav5/_saved/"><img height=30px src="https://badges.aleen42.com/src/pinterest.svg"></a>
  <a href="https://www.instagram.com/meza_360_/"><img height=30px src="https://badges.aleen42.com/src/instagram.svg"></a>
  <a href="https://www.facebook.com/giovani.meza.360/"><img height=30px src="https://badges.aleen42.com/src/facebook.svg"></a>
- <a href="https://twitter.com/meza_360"><img height=30px src="https://badges.aleen42.com/src/twitter.svg"></a>
  <a href="https://open.spotify.com/user/giovanimeza?si=d87b1c5a12524365"><img height=30px src="https://badges.aleen42.com/src/spotify.svg"></a>
  <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
   
