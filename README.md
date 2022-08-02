@@ -33,7 +33,7 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
- 
+ <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
  
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -43,7 +43,7 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <h2> 📋 What i use t colaborate with my teams 🧩</h2>
  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
  <img width=100px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
- <img widht=100px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+ 
 </div>
 
 # 👇🏻Find me on👇🏻
