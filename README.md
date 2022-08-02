@@ -10,39 +10,39 @@ Software developer, coder, systems administrator, entrepreneur 💻 On my way to
  <h1>Technologies I've worked with</h1>
  
 
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
- <img width=100px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
- <img width=100px src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+ <img width=50px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
+ <img width=50px src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
  
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
  
  
  
- <img width=100px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
-  <img width=100px src="https://github.com/meza360/meza360/blob/master/apache_original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+ <img width=50px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
+  <img width=50px src="https://github.com/meza360/meza360/blob/master/apache_original.svg">
+  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
  
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
  
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
  <h2> 📋 What i use t colaborate with my teams 🧩</h2>
- <img width=100px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
- <img width=100px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
+ <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+ <img width=50px src="https://github.com/meza360/devicon/blob/master/icons/github/github-original-wordmark.svg">
  
 </div>
 
