@@ -13,6 +13,7 @@ I have a notion about mobile development with React Native
 <img width=50px src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2018/02/microsoft_sqlserver.png?width=1200&enable=upscale">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
 
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -21,9 +22,14 @@ I have a notion about mobile development with React Native
 <img width=50px src="https://www.kindpng.com/picc/m/459-4595229_lighttpd-web-server-hd-png-download.png">
 <img width=50px src="https://github.com/meza360/meza360/blob/master/apache_original.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+ 
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
 
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
@@ -31,9 +37,8 @@ I have a notion about mobile development with React Native
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 
-<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
+
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
 <h2> 📋 What i use to colaborate with my teams 🧩</h2>
