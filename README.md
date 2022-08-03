@@ -6,7 +6,7 @@ My main stack includes HTML, CSS, JavaScript, .NET/C#, React JS, Figma UX/UI pro
 I have a notion about mobile development with React Native
 
 <div>
-<h1>Technologies I use</h1>
+<h1>Technologies</h1>
  
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
 <img width=50px src="https://img.utdstc.com/icon/92a/84b/92a84bb11a27350f078e70dd993ad709ac33f17cd37517aa3946e6a5ae36322e:200">
