@@ -27,7 +27,7 @@ I have a notion about mobile development with React Native
 
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-<img width=50px src="(https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg)">
+<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 
