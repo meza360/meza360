@@ -1,4 +1,4 @@
-# Gio, Fullstack developer :alien: Software engineer :floppy_disk: :coffee:
+# Gio, Fullstack developer :alien: Software engineer :floppy_disk: :coffee: UX/UI designer
 Systems engineering and computer science undergraduate<br>
 I have 2 years of experience developing JAVA and C# applications for both Desktop and Web environments<br>
 I run my home infrastructure using Windows and Linux servers. <br>
