@@ -57,6 +57,6 @@ I have a notion about mobile development with React Native
 <a href="https://t.me/meza360"><img height=30px src="https://badges.aleen42.com/src/telegram.svg"></a>
   
 
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meza360&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/meza360/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meza360&langs_count=12&hide=ruby,less,scss,shell,tsql,powershell,plsql,python&layout=compact&theme=tokyonight)](https://github.com/meza360/github-readme-stats)
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meza360&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/meza360/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meza360&langs_count=10&hide=ruby,less,scss,shell,tsql,powershell,plsql,python&layout=compact&theme=tokyonight)](https://github.com/meza360/github-readme-stats)
 
 
