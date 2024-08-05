@@ -1,9 +1,8 @@
 # Gio, Fullstack developer :alien: Software engineer :floppy_disk: :coffee: UX/UI designer
 Systems engineering and computer science undergraduate<br>
-I have 2 years of experience developing JAVA and C# applications for both Desktop and Web environments<br>
-I run my home infrastructure using Windows and Linux servers. <br>
-My main stack includes HTML, CSS, JavaScript, .NET/C#, React JS, Figma UX/UI prototyping and Oracle DB high availability architecture.<br>
-I have a notion about mobile development with React Native
+Software developer, technical leader, solutions analyst.
+Aware of full software development cycle, helped multiple teams to engage, deliver and success in different areas. Modernization, DevOps, cloud-adaptation and cloud-native solutions architect.
+Analytic, persistent, objectives-oriented, engaged.
 
 <div>
 <h1>Technologies</h1>
